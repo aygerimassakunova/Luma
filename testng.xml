@@ -10,6 +10,13 @@
                     <include name="createAccTest2"/>
                 </methods>
             </class>
+             </class>
+            <class name="lumaProjectTest.HomePageTest">
+            </class>
+            <class name="lumaProjectTest.SignInTest">
+            </class>
+            <class name="lumaProjectTest.WomenClothesTest">
+            </class>
         </classes>
     </test>
 </suite>
